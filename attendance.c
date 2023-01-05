@@ -1,4 +1,4 @@
-#include<stdio.h>aaaaagit 
+#include<stdio.h>
 #include<stdlib.h>
 #include<string.h>
 char stuName[20][30];
